@@ -6,6 +6,8 @@
       "error",
       {
         "singleQuote": true,
+        "semi": false,
+        "singleAttributePerLine": true,
         "endOfLine": "auto"
       }
     ],
@@ -25,6 +27,8 @@
           "error",
           {
             "singleQuote": true,
+            "semi": false,
+            "singleAttributePerLine": true,
             "endOfLine": "auto"
           }
         ],
@@ -55,6 +59,8 @@
           "error",
           {
             "singleQuote": true,
+            "semi": false,
+            "singleAttributePerLine": true,
             "endOfLine": "auto"
           }
         ],
@@ -117,6 +123,8 @@
           "error",
           {
             "singleQuote": true,
+            "semi": false,
+            "singleAttributePerLine": true,
             "endOfLine": "auto"
           }
         ],
